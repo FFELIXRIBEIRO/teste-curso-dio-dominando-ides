@@ -5,8 +5,8 @@ import java.util.Objects;
 public class Gato {
 	
 	private String nome = "fabio";
-	private String cor;
-	private Integer idade;
+	private String cor = "preto";
+	private Integer idade = 32;
 	public Gato() {
 	}
 	public Gato(String nome, String cor, Integer idade) {
